@@ -1,5 +1,5 @@
 ---  
-title: Research Proposal: Tracking Internet Censorship In US Schools
+title: Emily Sun's Research Proposal
 author: Emily Sun
 date: May 16, 2014  
 --- 
