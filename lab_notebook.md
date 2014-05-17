@@ -35,21 +35,21 @@ Note: good to run “git status” often
 
 You don’t have to type out anything: just click on the arrow by the instructions and it types out the instruction for you in the terminal window!
 
-**Directory:**A folder used for storing multiple files.
+**Directory:** A folder used for storing multiple files.
 
-**Repository:**A directory where Git has been initialized to start version controlling your files.
+**Repository:** A directory where Git has been initialized to start version controlling your files.
 
-**staged:**Files are ready to be committed.
+**staged:** Files are ready to be committed.
 
-**unstaged:**Files with changes that have not been prepared to be commited.
+**unstaged:** Files with changes that have not been prepared to be commited.
 
-**untracked:**Files aren't tracked by Git yet. This usually indicates a newly created file.
+**untracked:** Files aren't tracked by Git yet. This usually indicates a newly created file.
 
-**deleted:**File has been deleted and is waiting to be removed from Git.
+**deleted:** File has been deleted and is waiting to be removed from Git.
 
-**add all:**You can also type git add .. The dot represents the current directory, so everything in it, and everything beneath it gets added.
+**add all:** You can also type git add .. The dot represents the current directory, so everything in it, and everything beneath it gets added.
 
-**git reset:**You can use git reset <filename> to remove a file or files from the staging area.
+**git reset:** You can use git reset <filename> to remove a file or files from the staging area.
 
 I don’t *really* understand what the “stage” in Git is
 
@@ -67,9 +67,14 @@ Takes a couple seconds for Git to execute commands
 
 By default **HEAD** points to your most recent commit.
 
-I don’t really understand the things that show up in the terminal when I execute commands. Ex:
+I don’t really understand the things that show up in the terminal when I execute commands. 
+
+Ex:
+
 @@ -1 +1 @@
+
 -A Tale of Two Octocats
+
 +[mA Tale of Two Octocats and an Octodog
 
 You want to try to keep related changes together in separate commits. Using **'git diff'** gives you a good overview of changes you have made and lets you add files or directories one at a time and commit them separately.
