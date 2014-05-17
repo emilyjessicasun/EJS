@@ -67,8 +67,15 @@ Takes a couple seconds for Git to execute commands
 
 By default **HEAD** points to your most recent commit.
 
+<<<<<<< HEAD
 I don’t really understand the things that show up in the terminal when I execute commands.  
 Ex:  
+=======
+I don’t really understand the things that show up in the terminal when I execute commands. 
+
+Ex:  
+
+>>>>>>> FETCH_HEAD
 @@ -1 +1 @@  
 -A Tale of Two Octocats  
 +[mA Tale of Two Octocats and an Octodog
