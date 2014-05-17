@@ -67,14 +67,10 @@ Takes a couple seconds for Git to execute commands
 
 By default **HEAD** points to your most recent commit.
 
-I don’t really understand the things that show up in the terminal when I execute commands. 
-
-Ex:
-
-@@ -1 +1 @@
-
--A Tale of Two Octocats
-
+I don’t really understand the things that show up in the terminal when I execute commands.  
+Ex:  
+@@ -1 +1 @@  
+-A Tale of Two Octocats  
 +[mA Tale of Two Octocats and an Octodog
 
 You want to try to keep related changes together in separate commits. Using **'git diff'** gives you a good overview of changes you have made and lets you add files or directories one at a time and commit them separately.
